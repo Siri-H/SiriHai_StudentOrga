@@ -12,6 +12,8 @@ import model.Student;
 public class StudentCtr {
 
     public static void main(String[] args) throws Exception {
+        // Was darf ich?
+
         Student student1 = new Student();
         student1.setName("Nathan Evans");
         student1.setId(1001);
